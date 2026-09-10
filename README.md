@@ -7,9 +7,6 @@
 
 ## About Me
 
-- 🔬 Research intern @ [WaismanCenter](https://www.waisman.wisc.edu/)
-- 🤖 Building infra for autonomous development @ [ContinuousAutonomy](https://github.com/ContinuousAutonomy)
-- 🛠️ DevOps and DevEx tooling: CLIs, pipelines, and things that make engineers' lives easier 
 - 🌐 Open source enthusiast and [EDGI](https://github.com/edgi-govdata-archiving) contributor
 - 🤫 Silent builder who learns by shipping
 - 📡 Running my own Linux server because the cloud is just someone else's computer
